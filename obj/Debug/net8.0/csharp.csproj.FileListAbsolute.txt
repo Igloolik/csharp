@@ -1,0 +1,14 @@
+/home/igloolik/Repos/csharp/bin/Debug/net8.0/csharp
+/home/igloolik/Repos/csharp/bin/Debug/net8.0/csharp.deps.json
+/home/igloolik/Repos/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/igloolik/Repos/csharp/bin/Debug/net8.0/csharp.dll
+/home/igloolik/Repos/csharp/bin/Debug/net8.0/csharp.pdb
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.dll
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/refint/csharp.dll
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.pdb
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/igloolik/Repos/csharp/obj/Debug/net8.0/ref/csharp.dll
