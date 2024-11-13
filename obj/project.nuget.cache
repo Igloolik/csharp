@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GqAK+b/jZQxDE02kUnrXn5HVbVqSJFRWolfa3RZRWGOic2gh9PZ6WpitxFc4tPMzjKFQ76/1B2HYme0KDikK4g==",
+  "dgSpecHash": "Xu3UYXdWjv4tEvsVq670UfRXs5PCVv5x351MB1yMfUo3U7lD917kDJoRjG6UK6FnZSA47g6tPaqIfSDBBQKeGQ==",
   "success": true,
-  "projectFilePath": "/home/igloolik/Repos/csharp/csharp.csproj",
+  "projectFilePath": "/mnt/dev/Repos/csharp/csharp.csproj",
   "expectedPackageFiles": [
     "/home/igloolik/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],

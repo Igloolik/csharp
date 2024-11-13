@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igloolik/Repos/csharp/csharp.csproj",
+      "projectUniqueName": "/mnt/dev/Repos/csharp/csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "/home/igloolik/Repos/csharp/csharp.csproj",
+      "projectPath": "/mnt/dev/Repos/csharp/csharp.csproj",
       "packagesPath": "/home/igloolik/.nuget/packages/",
-      "outputPath": "/home/igloolik/Repos/csharp/obj/",
+      "outputPath": "/mnt/dev/Repos/csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/igloolik/.nuget/NuGet/NuGet.Config"
